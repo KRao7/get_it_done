@@ -1,4 +1,4 @@
-# get_it_done
+# capture
 A screenshot application (.jar) using Java and JNA (KeyHook). Typically created to take screenshots of webpages and save with URL name.
 Filenames do not allow special characters and we have to edit the filenames manually. Here, the special characters are automatically removed and replaced by a DOT (.).
 
