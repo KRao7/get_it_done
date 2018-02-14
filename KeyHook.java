@@ -2,9 +2,6 @@
 /**
  * 
  * Purpose: Takes a window screenshot.
- *
- * @author Kiran N Rao
- * @version 1.0 5/25/15
  */
 import java.awt.AWTException;
 import java.awt.Image;
