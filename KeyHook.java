@@ -1,6 +1,5 @@
 
 /**
- * 
  * Purpose: Takes a window screenshot.
  */
 import java.awt.AWTException;
